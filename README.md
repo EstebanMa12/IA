@@ -1,7 +1,14 @@
 # Proyecto_AI
 # Proyecto inteligencia artificial UdeA
+## Miembros del grupo 
+- Daniel Esteban Maya Portillo, CC 1004540273, Bioingeniería
+- Manuela Gutiérrez Cano, CC 1037657256, Ingeniería de Sistemas
+- Nilson Suarez Hernandez, CC 1068124979, Ingeniería Industrial
 
-# Estudiante 1: Sebastian Solorzano Betancur - cedula: 1152467499 - Pregrado: ingenieria mecanica 
-# estudiante 2: Manuela Gutiérrez Cano - cedula: 1037657256 - pregrado: ingenieria sistemas 
-# estudiante 3: Daniel Esteban Maya Portillo - cedula: 1004540273 - Pregrado: Bioingenieria
-# Enlace a la fuente de datos: https://www.kaggle.com/datasets/colormap/spambase
+## Datos 
+
+Los datos del proyecto vienen del dataset [SpamBase](https://www.kaggle.com/datasets/colormap/spambase)
+
+## Videos
+- [Video primera entrega](https://youtu.be/31TvAP8LNGo)
+
